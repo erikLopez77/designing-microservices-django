@@ -1,5 +1,6 @@
 
 # Entornos virtuales (el más importante)
+env/
 djvenv/
 *.pyc
 ssproyecto/static/admin/
