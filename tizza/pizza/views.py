@@ -1,6 +1,7 @@
 import json
 from .models import Pizza
 from django.views import View
+from django.shortcuts import render
 from django.http import HttpResponse,JsonResponse
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import Permission
